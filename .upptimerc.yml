@@ -6,7 +6,7 @@ sites:
   - name: Playvortex
     url: https://playvortex.io
     maxResponseTime: 5000
-     expectedStatusCodes:
+    expectedStatusCodes:
       - 200
       - 301
     skipDeleteIssues: true
