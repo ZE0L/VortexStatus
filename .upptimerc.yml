@@ -7,6 +7,15 @@ sites:
     url: https://playvortex.io
     maxResponseTime: 5000
     skipDeleteIssues: true
+
+workflowSchedule:
+  uptime: "*/5 * * * *"
+  responseTime: "0 */6 * * *"
+  graphs: "0 */6 * * *"
+  staticSite: "0 */6 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
     
 status-website:
   theme: dark
