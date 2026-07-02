@@ -5,16 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/playvortex.io.ico",
     "slug": "playvortex",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 351,
-    "timeDay": 369,
-    "timeWeek": 351,
-    "timeMonth": 351,
-    "timeYear": 351,
-    "dailyMinutesDown": {}
+    "uptime": "89.30%",
+    "uptimeDay": "52.49%",
+    "uptimeWeek": "89.30%",
+    "uptimeMonth": "89.30%",
+    "uptimeYear": "89.30%",
+    "time": 1473,
+    "timeDay": 5126,
+    "timeWeek": 1473,
+    "timeMonth": 1473,
+    "timeYear": 1473,
+    "dailyMinutesDown": {
+      "2026-07-02": 616,
+      "2026-07-01": 68
+    }
   }
 ]
