@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/playvortex.io.ico",
     "slug": "playvortex",
     "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "98.75%",
+    "uptime": "98.69%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "98.69%",
     "time": 574,
     "timeDay": 61,
     "timeWeek": 215,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2026-07-02": 616,
       "2026-07-01": 68,
-      "2026-07-09": 56
+      "2026-07-09": 56,
+      "2026-08-08": 38
     }
   }
 ]
